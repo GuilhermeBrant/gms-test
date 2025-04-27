@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Matrix",
+        "ano": 2002,
+        "genero": "Ação"
+    },
+    {
+        "titulo": "Batman",
+        "ano": 1990,
+        "descricao": "Ação"
+    },
+    {
+        "titulo": "Inception",
+        "ano": 1980,
+        "descricao": "Ação"
+    },
+    {
+        "titulo": "The Lord of the Rings",
+        "ano": 2001,
+        "descricao": "Ação"
+    }
+]
